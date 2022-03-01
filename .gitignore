@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+./.idea
+./build/
+/build/
+/.idea/
+/readme_files/~$ndidate_pre-reqs_for_exercise.docx
